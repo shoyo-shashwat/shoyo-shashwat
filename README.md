@@ -8,13 +8,11 @@
 * 🤖 Artificial Intelligence & Machine Learning
 * 🌐 Web Development
 
-🚀 Lately, I’ve also been into **vibe coding** — building, experimenting, and learning by creating cool stuff.
+🚀 Lately, I’ve also been into **vibe coding** — building, experimenting,About and learning by creating cool stuff.
 
 📌 **Current Focus:**
 
-* Strengthening core programming concepts
-* Exploring AI/ML and data-driven problem solving
-* Building web projects and practical applications
+* **PROBLEM MAP**:A collaborative project on building an AI-powered civic issue mapping platform designed to track, classify, and report local problems in real time. 
 
 ---
 
