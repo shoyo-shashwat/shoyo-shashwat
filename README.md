@@ -12,7 +12,7 @@
 
 📌 **Current Focus:**
 
-* **PROBLEM MAP**:A collaborative project on building an AI-powered civic issue mapping platform designed to track, classify, and report local problems in real time. 
+* **AREAPULSE**:A collaborative project on building an AI-powered civic issue mapping platform designed to track, classify, and report local problems in real time. 
 
 ---
 
